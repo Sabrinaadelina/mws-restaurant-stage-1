@@ -30,4 +30,4 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 ### What i have done
 1.Added Service Worker
 2. Responsiveness
-3. Acssessibility
+3. Accessibility
